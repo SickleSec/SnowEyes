@@ -12,7 +12,7 @@
 > ## 公告
 > 
 > 很抱歉，因为一些原因，雪瞳最新版本仅限内部使用，内部更新后会开放一些落后版本。
-> 当前开源最新版本[v0.2.7.6](https://github.com/SickleSec/SnowEyes/releases)。
+> 当前开源最新版本[v0.3.0](https://github.com/SickleSec/SnowEyes/releases)。
 > 感谢各位师傅的关注和支持，如需联系请+wx：Is_Sickle_ya
 
 
