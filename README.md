@@ -103,4 +103,4 @@
 </details>
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=SickleSec/SnowEyes&type=Date)](https://api.star-history.com/svg?repos=SickleSec/SnowEyes&type=Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=SickleSec/SnowEyes&type=Date)](https://star-history.dera.page/#SickleSec/SnowEyes&type=Date)
